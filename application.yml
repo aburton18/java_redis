@@ -1,0 +1,6 @@
+spring:
+  redis:
+    ssl: true
+    ssl.key-store-type: <keystore-type>
+    ssl.key-store: <path-to-keystore>
+    ssl.key-store-password: <keystore-password>
